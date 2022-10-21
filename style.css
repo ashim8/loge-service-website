@@ -1047,7 +1047,8 @@ padding-bottom:60px;
 
 }
 .service-inner-part {
-    gap: 0px;
+    gap: 170px;
+    /* gap: 0px; */
     justify-content: space-between;
 }
 .logo-images {
